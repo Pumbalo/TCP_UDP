@@ -1,0 +1,15 @@
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\bin\Debug\net7.0\TCP-UDP-App.exe
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\bin\Debug\net7.0\TCP-UDP-App.deps.json
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\bin\Debug\net7.0\TCP-UDP-App.runtimeconfig.json
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\bin\Debug\net7.0\TCP-UDP-App.dll
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\bin\Debug\net7.0\TCP-UDP-App.pdb
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\TCP-UDP-App.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\TCP-UDP-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\TCP-UDP-App.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\TCP-UDP-App.AssemblyInfo.cs
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\TCP-UDP-App.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\TCP-UDP-App.dll
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\refint\TCP-UDP-App.dll
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\TCP-UDP-App.pdb
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\TCP-UDP-App.genruntimeconfig.cache
+C:\Users\simon\Desktop\Skola-år-2\TCP-UDP-App\obj\Debug\net7.0\ref\TCP-UDP-App.dll
